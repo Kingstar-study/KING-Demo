@@ -1,2 +1,3 @@
 # KING-Demo
-this is my first github repository
+This is my first github repository.
+Author - Rizwanul Islam
